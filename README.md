@@ -2,5 +2,5 @@
 ### Sobre Min:
 #### 🥳 Tenho 21 anos
 #### 👨‍🎓 Desenvolvedor Front End
-#### 👨‍🎓 Formação Alura Academy
+#### 👨‍🎓 Formação EBAC
 #### 🎮 Fã de Games 
